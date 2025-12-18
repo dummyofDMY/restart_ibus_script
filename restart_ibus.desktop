@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=重启键盘
+Name[zh_CN]=重启键盘
+Exec=gnome-terminal -- bash -c "/home/dummy/kill_ibus/restart_ibus.sh; exit"
+Path = /home/dummy/kill_ibus/
+Icon= /home/dummy/kill_ibus/icon.jpg
+Terminal=true
+Type=Application
